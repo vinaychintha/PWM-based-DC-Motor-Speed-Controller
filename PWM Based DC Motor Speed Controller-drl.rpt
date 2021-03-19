@@ -1,0 +1,25 @@
+Drill report for F:\KI CAD\PWM Based DC Motor Speed Controller\PWM Based DC Motor Speed Controller.kicad_pcb
+Created on 03/19/21 17:11:50
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'PWM Based DC Motor Speed Controller-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.90mm  0.035"  (2 holes)
+    T2  1.10mm  0.043"  (3 holes)
+    T3  1.40mm  0.055"  (2 holes)
+
+    Total plated holes count 7
+
+
+Drill file 'PWM Based DC Motor Speed Controller-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.70mm  0.106"  (1 hole)
+
+    Total unplated holes count 1

@@ -1,0 +1,60 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*%
+%TF.CreationDate,2021-03-19T17:10:50+05:30*%
+%TF.ProjectId,PWM Based DC Motor Speed Controller,50574d20-4261-4736-9564-204443204d6f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2021-03-19 17:10:50*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10C,2.800000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11O,2.000000X1.905000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD12R,2.000000X1.905000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD13C,1.800000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD14R,1.800000X1.800000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,TP2,1*%
+%TO.N,Net-(C1-Pad2)*%
+X91440000Y-96520000D03*
+%TD*%
+%TO.P,TP1,1*%
+%TO.N,Net-(D1-Pad2)*%
+X91440000Y-87630000D03*
+%TD*%
+D11*
+%TO.P,Q1,3*%
+%TO.N,Net-(C1-Pad2)*%
+X170180000Y-102870000D03*
+%TO.P,Q1,2*%
+%TO.N,Net-(D4-Pad1)*%
+X170180000Y-100330000D03*
+D12*
+%TO.P,Q1,1*%
+%TO.N,Net-(Q1-Pad1)*%
+X170180000Y-97790000D03*
+%TD*%
+D13*
+%TO.P,M1,2*%
+%TO.N,Net-(D4-Pad1)*%
+X170180000Y-87630000D03*
+D14*
+%TO.P,M1,1*%
+%TO.N,Net-(D1-Pad2)*%
+X170180000Y-85090000D03*
+%TD*%
+M02*
